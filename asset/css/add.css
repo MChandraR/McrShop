@@ -1,0 +1,50 @@
+.tabel-barang{
+    width : 95vw;
+    margin : 5vw 1.5vw;
+    box-shadow: 0 0 2px 2px rgb(199, 199, 199);
+    border-spacing: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn{
+    
+    border-radius: .5rem;
+}
+
+.bg-primary{
+    background-color: blue;
+}
+
+.bg-danger{
+    background-color: red;
+}
+
+label{
+    font-weight: bold;
+}
+
+.input{
+    width : 100%;
+    box-shadow: 0 0 2px 2px rgb(228, 228, 228);
+    border : none;
+    margin : 10px 0rem;
+    border-radius: .5rem;
+    padding : 5px;
+    background: rgb(248, 248, 248);
+}
+
+.head{
+    font-weight: bold;
+    border-bottom: solid 2px black;
+}
+
+.icon{
+    width : 1.5rem;
+}
+
+.tb-cell{
+    padding : 10px 5px;
+}
