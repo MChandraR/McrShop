@@ -1,0 +1,23 @@
+.whistlist{
+    padding : 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.listView{
+    position: relative;
+    align-items :center;
+    display: flex;
+    flex-wrap: wrap;
+    margin : 1rem 0;
+    padding : 1rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 2px 2px rgb(207, 207, 207);
+}
+.listView div{
+   margin : 0 .5rem;
+}
+
+.product-info{
+    width: 75%;
+    display : flexbox;
+}
